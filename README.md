@@ -2,6 +2,7 @@
 It's my graduation project's demo
 
 # how to start it?
+You should install mongodb before you take the steps.
 ```
 cd client
 yarn
